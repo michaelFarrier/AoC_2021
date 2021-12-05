@@ -1,4 +1,4 @@
-# AOC 2021 - Day 2 - Puzzle 2
+# AOC 2021 - Day 2
 # michaelFarrier
 
 

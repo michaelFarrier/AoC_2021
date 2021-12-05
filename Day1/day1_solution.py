@@ -1,4 +1,4 @@
-# AOC 2021 - Day 1 - Puzzle 1
+# AOC 2021 - Day 1
 # michaelFarrier
 
 # This puzzle requires us to perform a sliding window technique to pass in modified input for puzzle_1
